@@ -30,6 +30,19 @@ The notebook prompts the user to upload the CSV dataset before running the analy
 - Visualized category profitability and monthly sales trends.
 - Identified loss-making product subcategories using SQL aggregation.
 
+## Key Findings
+
+- **Regional performance:** The West region recorded the highest sales ($725,457.82) and profit ($108,418.45), while Central generated the lowest regional profit ($39,706.36).
+- **Category performance:** Technology delivered the highest profit ($145,454.95), followed by Office Supplies ($122,490.80). Furniture generated $741,999.80 in sales but only $18,451.27 in profit.
+- **Subcategory losses:** Tables recorded the largest loss ($17,725.48), followed by Bookcases ($3,472.56) and Supplies ($1,189.10).
+
+## Business Recommendations
+
+- Investigate regional differences in product mix, discounting, and profitability.
+- Review Furniture margins to understand why substantial sales translate into comparatively low profit.
+- Examine Tables' pricing, discount levels, and costs to identify potential causes of losses.
+- Validate potential improvements against further product-level and transaction-level analysis before implementing changes.
+
 ## Key Business Questions
 1. Which regions generate the highest total profit?
 2. Which product categories contribute most to sales and profitability?
